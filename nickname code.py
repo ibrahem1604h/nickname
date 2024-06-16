@@ -1,4 +1,3 @@
-```python
 names=input("Enter the names of attendees separated by commas: ").split(", ")
 nickname_list=[]
 for name in names:
